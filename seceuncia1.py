@@ -5,3 +5,5 @@ for _ in range(7):
  numeros.append(numeros) 
 print(f"{numeros}")
 
+
+
